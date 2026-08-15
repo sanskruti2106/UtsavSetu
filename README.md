@@ -130,3 +130,4 @@ https://github.com/sanskruti2106/UtsavSetu
 
 GitHub: https://github.com/sanskruti2106
 website link: http://localhost:5173/
+http://10.193.250.197:5173/
